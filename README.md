@@ -15,6 +15,6 @@
 `HTML mp3 player`  
 `Browser mp3 player`  
 
-*PS*: _By Default it runs a synthwave track  ;) _  
+PS: By Default it runs a synthwave track  ;)   
 _If you like that  ( Track Name : Vogel Dreamwave )_
 
