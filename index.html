@@ -1,0 +1,26 @@
+<html>
+    <head>
+        
+        <script src="https://code.jquery.com/jquery-2.2.4.min.js" integrity="sha256-BbhdlvQf/xTY9gja0Dq3HiwQF8LaCRTXxZKRutelT44=" crossorigin="anonymous"></script>
+        <link rel="stylesheet" type="text/css" href="./style.css">
+        <script src="./main.js" /></script>
+    </head>
+    <body>
+        <!-- Player widget -->
+        <div id="div-player-container">
+            <div class="center-div" style="width:58%">
+                <div id="div-eq-container"  >
+                    <div id="visualisation"></div>
+                    <div id="div-vis-round" class="center-div" >
+                        <div>
+                            <div id="round-visualisation"></div>
+                        </div>
+                    </div>
+                </div>
+                <audio crossorigin="anonymous" controls="controls" preload="auto" id="player" type="audio/mpeg"></audio>
+            </div>
+        </div>
+            <button class="play-button center-div" onclick="play_song(this)">play</button>
+        </div>
+    </body>
+</html>
