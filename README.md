@@ -1,4 +1,7 @@
 # Web-Audio-API-With-visualizer
+
+[DEMO](https://shivashanmugam.github.io/Web-Audio-API-With-visualizer/)
+
 ### Uses AudioContext API, Confirm Browser Compatability before using  
 
 ![Visualizer Image](https://image.ibb.co/fper8n/webaudio.png)
