@@ -145,8 +145,7 @@ var load_audio_player = function() {
 
 //Synthwave playlist :)
 var mp3Array = [
-    "https://doc-00-1o-docs.googleusercontent.com/docs/securesc/ha0ro937gcuc7l7deffksulhg5h7mbp1/tpb6qenbatdmol79uenuu5vnev13jt49/1525521600000/02384238890290447918/*/1FiQzkHEZuVLG6ck1DTtGajXH_hb4vYwj", //vogel dreamwave,
-    "https://doc-0g-1o-docs.googleusercontent.com/docs/securesc/ha0ro937gcuc7l7deffksulhg5h7mbp1/sgbl0oabits1to3j5d3nims4dnkpspm3/1525521600000/02384238890290447918/*/1uPBbhM4jOjN8keM7GcDyDVDycjyoNiYV"//zombie drive
+    "https://shivashanmugam.github.io/Web-Audio-API-With-visualizer/vogel-dreamwave.mp3", //vogel dreamwave,
 ]
 
 
