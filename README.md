@@ -2,6 +2,9 @@
 
 [DEMO](https://shivashanmugam.github.io/Web-Audio-API-With-visualizer/)
 
+## Background
+Done it for UI hirining challange, Got shortlisted , Did't get the job :P, Now here it for you guys. 
+
 ### Uses AudioContext API, Confirm Browser Compatability before using it
 
 ![Visualizer Image](https://image.ibb.co/fper8n/webaudio.png)
