@@ -3,9 +3,7 @@
 [DEMO](https://shivashanmugam.github.io/Web-Audio-API-With-visualizer/)
 
 ## Background
-Done it for UI hirining challange, 
-Did't get the job
-Never mind
+Done it for a UI hirining challange, Never got the job :P
 
 ### Uses AudioContext API, Confirm Browser Compatability before using it
 
