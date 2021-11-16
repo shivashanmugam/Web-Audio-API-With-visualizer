@@ -3,7 +3,7 @@
 [DEMO](https://shivashanmugam.github.io/Web-Audio-API-With-visualizer/)
 
 ## Background
-Done it for a UI hirining challange, Never got the job :P
+Wanted to created a retro synthwave themed audio visualizer as a tribute to synthwave creators and fan community
 
 ### Uses AudioContext API, Confirm Browser Compatability before using it
 
